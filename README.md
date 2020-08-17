@@ -4,7 +4,7 @@
 
 
 <p align='center'>
-<img src='images/notre_dame_starry_night.png' height='350px'/><img src='images/notre_dame_stained_glass.png' height='350px'/><img src='images/notre_dame_colors.png' height='350px'/>
+<img src='images/notre_dame_starry_night.png' height='300px'/><img src='images/notre_dame_stained_glass.png' height='300px'/><img src='images/notre_dame_colors.png' height='300px'/>
 </p>
 
 This is a implementation of Neural Style Transfer algorithm proposed by [Gatys in 2015](https://arxiv.org/pdf/1508.06576.pdf). Method is implemented using Pytorch. Style transfer is used for images, videos and also for combining styles and transferring them to image.
