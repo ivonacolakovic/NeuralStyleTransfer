@@ -1,6 +1,6 @@
 # Neural Style Transfer
 
-<i>Final project within subject Development technologies of intelligent solutions</i>
+<i>Final project within subject Development technologies for intelligent solutions</i>
 
 
 <p align='center'>
